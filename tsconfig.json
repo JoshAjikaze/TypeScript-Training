@@ -13,7 +13,5 @@
 			"esnext"
 		],
 	},
-	"include": [
-		"src/**/*"
-, "Scripts.js"	]
+	"include": ["src/**/*", "Scripts.js", "Ex_Files/union&typeAliases.ts"	]
 }
